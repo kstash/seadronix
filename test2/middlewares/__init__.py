@@ -1,0 +1,1 @@
+from middlewares.search_validation_middleware import SearchValidationMiddleware

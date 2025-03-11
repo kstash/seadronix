@@ -1,0 +1,28 @@
+{
+    "generals": [
+        {
+            "format": "MPEG-4",
+            "duration": 137254,
+            "file_size": 145886934
+        }
+    ],
+    "videos": [
+        {
+            "width": 1920,
+            "height": 800,
+            "frame_rate": 25.0,
+            "codec": "avc1",
+            "bit_rate": 8286000.0,
+            "duration": 137240
+        }
+    ],
+    "audios": [
+        {
+            "channels": 2,
+            "sampling_rate": 44100.0,
+            "bit_rate": 112003.0,
+            "codec": "mp4a-40-2",
+            "duration": 137254
+        }
+    ]
+}
